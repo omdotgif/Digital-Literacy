@@ -1,0 +1,8 @@
+CASE STUDY :  Phishing
+In early 2024, a mid-sized technology firm, TechCorp, fell victim to a highly targeted phishing attack known as spear phishing. Attackers researched the company on LinkedIn to identify employees in the finance department and their roles.
+The Attack
+The perpetrator sent an email disguised as an urgent request from the CEO to a senior accountant. The email was designed to look legitimate, using a spoofed domain name that was almost identical to the real company address. It stated that a "critical, confidential acquisition invoice" needed to be paid immediately to a new vendor to prevent the deal from collapsing. The attacker leveraged social engineering, relying on fear of failure and time pressure to bypass standard verification protocols.
+The Action and Consequence
+Believing the request was genuine, the accountant bypassed the standard invoice verification process and transferred over $100,000 to the attacker’s bank account. The fraud was discovered two days later when the real vendor asked about the overdue invoice.
+Aftermath and Prevention
+TechCorp suffered significant financial loss and a temporary decline in staff morale. Following the incident, the company implemented stricter "out-of-band" verification procedures—requiring verbal confirmation for any financial transactions over a certain amount. They also implemented ongoing security training, teaching employees to scrutinize sender addresses and look for subtle signs of fraud. This case demonstrates that phishing threats are no longer just generic spam, but targeted scams exploiting human psychology.
